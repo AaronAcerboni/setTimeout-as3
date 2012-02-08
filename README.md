@@ -6,9 +6,9 @@
 
 or just ...
 
-   setTimeout(function(){
-       trace('Without second parameter.')
-   })
+    setTimeout(function(){
+        trace('Without second parameter.')
+    })
 
 # About
 
