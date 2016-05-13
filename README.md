@@ -14,5 +14,5 @@ or just ...
 
 I wanted a function similar to setTimeout for my ActionScript 3 environment. I made this wrapper over the AS3 Timer and TimerEvent objects. You will need to import them if you wish to use this function.
 
-    import flash.util.Timer;
+    import flash.utils.Timer;
     import flash.events.TimerEvent;
